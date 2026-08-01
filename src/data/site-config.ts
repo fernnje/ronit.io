@@ -15,7 +15,7 @@
 
 export const siteConfig = {
   /** Your full name */
-  name: 'Fernn J.',
+  name: 'Fernn J',
 
   /** Your job title / tagline shown in hero and SEO */
   jobTitle: 'Web Developer & UI/UX Designer',
@@ -42,10 +42,10 @@ export const siteConfig = {
 
 export const siteUrls = {
   /** Base URL of the deployed site (no trailing slash) */
-  baseUrl: 'https://fernn.is-a.my.id',
+  baseUrl: 'https://portofolio-oj62jj1hv-faviilo.vercel.app/',
 
   /** Your GitHub profile URL */
-  github: 'https://github.com/fernnje',
+  github: 'https://github.com/fernnje/',
 
   /** Your LinkedIn profile URL */
   linkedin: 'https://www.linkedin.com/in/monge-dev/',
@@ -54,7 +54,7 @@ export const siteUrls = {
   twitterHandle: '@fernnje',
 
   /** Your blog URL (shown in navbar & footer) */
-  blog: 'https://dev.to/fernnj',
+  blog: 'https://dev.to/fernnj/',
 };
 
 // ---------------------
