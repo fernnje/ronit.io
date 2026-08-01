@@ -54,7 +54,7 @@ export const siteUrls = {
   twitterHandle: '@fernnje',
 
   /** Your blog URL (shown in navbar & footer) */
-  blog: 'https://fernn.is-a.my.id',
+  blog: 'https://dev.to/fernnj',
 };
 
 // ---------------------
