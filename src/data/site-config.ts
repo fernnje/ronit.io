@@ -15,19 +15,19 @@
 
 export const siteConfig = {
   /** Your full name */
-  name: 'Ronit Jadhav',
+  name: 'Fernn J.',
 
   /** Your job title / tagline shown in hero and SEO */
-  jobTitle: 'Geospatial Developer & Software Engineer',
+  jobTitle: 'Web Developer & UI/UX Designer',
 
   /** Short bio displayed in the hero section */
-  bio: "Based in Germany, I'm a Geospatial Developer and a Software Engineer. I love to work with maps, data, and code. I'm passionate about open-source, web technologies, and building cool stuff.",
+  bio: "Based in Indonesia, I'm a Web Developer and a UI/UX Designer. I love to work with code, and data. I'm passionate about open-source, web technologies, and building cool stuff.",
 
   /** Your country / location */
-  location: 'Germany',
+  location: 'Indonesia',
 
   /** Your email address */
-  email: 'hi@ronit.io',
+  email: 'lifernzy@gmail.com',
 
   /** Greeting sequence for the hero typing animation ([text, delay, text, delay, ...]) */
   greetings: ['Hello!', 1000, 'Hola!', 1000, 'Bonjour!', 1000, 'Namaste!', 1000] as (
@@ -42,19 +42,19 @@ export const siteConfig = {
 
 export const siteUrls = {
   /** Base URL of the deployed site (no trailing slash) */
-  baseUrl: 'https://ronitjadhav.github.io/ronit.io',
+  baseUrl: 'https://fernn.is-a.my.id',
 
   /** Your GitHub profile URL */
-  github: 'https://github.com/ronitjadhav',
+  github: 'https://github.com/fernnje',
 
   /** Your LinkedIn profile URL */
-  linkedin: 'https://www.linkedin.com/in/ronitjadhav/',
+  linkedin: 'https://www.linkedin.com/in/monge-dev/',
 
   /** Your Twitter/X handle (with @) — used in SEO meta tags */
-  twitterHandle: '@ronitjadhav',
+  twitterHandle: '@fernnje',
 
   /** Your blog URL (shown in navbar & footer) */
-  blog: 'https://dev.to/ronitjadhav',
+  blog: 'https://fernn.is-a.my.id',
 };
 
 // ---------------------
@@ -204,7 +204,7 @@ export const aboutCards: AboutCard[] = [
   {
     title: 'About Me',
     description:
-      "I'm currently working as a Geospatial Software Engineer at Camptocamp, where I specialize in geospatial software development.",
+      "I'm currently working as a Web Developer & UI/UX Designer at Mongedev, where I specialize in website development.",
     image: 'Character1.svg',
     imageAlt: 'Character1',
     imagePosition: 'right',
@@ -320,19 +320,19 @@ export const timelineData: TimelineEntry[] = [
 
 export const seoConfig = {
   /** Default page title */
-  title: 'Ronit Jadhav - Geospatial Developer & Software Engineer',
+  title: 'Fernn J - Web Developer & UI/UX Designer',
 
   /** Title template for sub-pages (%s is replaced by the page title) */
-  titleTemplate: '%s | Ronit Jadhav',
+  titleTemplate: '%s | Fernn J',
 
   /** Meta description */
   description:
-    "Based in Germany, I'm a Geospatial Developer and Software Engineer specializing in maps, data visualization, and web technologies. Expert in ArcGIS, QGIS, OpenLayers, Python, and JavaScript.",
+    "Based in Indonesia, I'm a Web Developer and UI/UX Designer specializing in code, data visualization, and web technologies. Expert in ArcGIS, QGIS, OpenLayers, Python, and JavaScript.",
 
   /** SEO keywords */
   keywords: [
-    'Geospatial Developer',
-    'Software Engineer',
+    'Web Developer',
+    'UI & UX Designer',
     'Germany',
     'ArcGIS',
     'QGIS',
@@ -356,7 +356,7 @@ export const seoConfig = {
   ogImage: 'https://ronitjadhav.github.io/ronit.io/ronit.png',
 
   /** Site name for Open Graph */
-  siteName: 'Ronit Jadhav Portfolio',
+  siteName: 'Fernn J Portfolio',
 
   /** Google Verification code (optional) */
   googleVerification: 'your-google-verification-code',
