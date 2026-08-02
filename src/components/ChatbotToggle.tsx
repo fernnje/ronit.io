@@ -177,7 +177,7 @@ export default function ChatbotToggle() {
             <div className="flex items-center gap-2">
               <MessageCircle className="w-5 h-5 text-gray-600 dark:text-gray-600" />
               <span className="font-heading text-sm font-bold text-gray-600 dark:text-gray-600">
-                Ask Ronit AI
+                Ask Fernn AI
               </span>
               <div className="w-8 h-8 bg-gray-600 dark:bg-gray-600 rounded-full flex items-center justify-center ml-2">
                 <svg
