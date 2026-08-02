@@ -162,7 +162,7 @@ export const projects: Project[] = [
     title: 'Streamify SAAS',
     description:
       'Developed at Mongedev for all youtube content creator. You can use this tool to livestream looping content 24/7 (Non-Stop), such as Lo-Fi and etc',
-    tech: ['Python', 'Qt', 'QGIS'],
+    tech: ['EJS', 'Docker', 'FFmpeg', 'NodeJS'],
     github: 'https://github.com/fernnje/streamify',
     live: 'https://mid.web.id/',
     image: 'QGIS-Banner.jpg',
