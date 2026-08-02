@@ -132,13 +132,13 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: 'GeoServer MCP',
+    title: 'Topup Games & Voucher',
     description:
-      'A MCP server that enables LLM agents to manage and administer GeoServer instances using natural language.',
-    tech: ['Python', 'GeoServer', 'MCP', 'FastMCP', 'REST API', 'Docker'],
-    github: 'https://github.com/ronitjadhav/geoservercloud-mcp',
-    live: 'https://pypi.org/project/geoservercloud-mcp/',
-    image: 'geoservercloud-mcp.webp',
+      'Want to own your own game top-up business? We offer affordable game top-up website creation services—pay just once and use it forever! No subscriptions or rental fees.',
+    tech: ['CodeIgniter 4', 'Laravel', 'PHP', 'FastMCP', 'REST API'],
+    github: 'https://fernnj.gumroad.com/l/kangtopup',
+    live: 'https://kangtopup.id/',
+    image: 'gamescharge.webp',
   },
   {
     title: 'Geonetwork-UI',
