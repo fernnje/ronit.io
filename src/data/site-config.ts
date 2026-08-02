@@ -159,12 +159,12 @@ export const projects: Project[] = [
     image: 'thinkhazard.webp',
   },
   {
-    title: 'QGIS Hub Plugin',
+    title: 'Streamify SAAS',
     description:
-      'Developed at Camptocamp with help from Ismail Sunni, this plugin allows QGIS users to easily browse and add resources from the QGIS Hub directly into their projects. It supports grid and list views, search, and filtering by resource type.',
+      'Developed at Mongedev for all youtube content creator. You can use this tool to livestream looping content 24/7 (Non-Stop), such as Lo-Fi and etc',
     tech: ['Python', 'Qt', 'QGIS'],
-    github: 'https://github.com/qgis/QGIS-Hub-Plugin',
-    live: 'https://plugins.qgis.org/plugins/qgis_hub_plugin/',
+    github: 'https://github.com/fernnje/streamify',
+    live: 'https://mid.web.id/',
     image: 'QGIS-Banner.jpg',
   },
   {
