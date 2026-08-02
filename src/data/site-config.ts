@@ -141,12 +141,12 @@ export const projects: Project[] = [
     image: 'geoservercloud-mcp.webp',
   },
   {
-    title: 'Geonetwork-UI',
+    title: 'Embedder Platform',
     description:
-      'A modern frontend suite for GeoNetwork catalogs. I contributed to the development and enhancement of the Datahub, Metadata Editor, and Map Viewer components.',
+      'Get a link or embed code for videos from movies and TV series.',
     tech: ['Angular', 'TypeScript', 'Tailwind CSS', 'Jest', 'Cypress'],
     github: 'https://github.com/geonetwork/geonetwork-ui',
-    live: 'https://geonetwork-ui.labs.camptocamp.com/datahub',
+    live: 'https://streamly.dpdns.org/',
     image: 'geonetwork-ui.webp',
   },
   {
