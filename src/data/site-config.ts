@@ -150,12 +150,12 @@ export const projects: Project[] = [
     image: 'geonetwork-ui.webp',
   },
   {
-    title: 'ThinkHazard (World Bank)',
+    title: 'IPTV Stream Platform',
     description:
-      'An open-source web tool developed for the World Bank and GFDRR. It enables project planners to assess natural hazard risks (like floods, earthquakes, and landslides) for any location and receive mitigation recommendations.',
+      'An open-source web for streaming or watch TV Channel with schedule live sports ex, Football, Basketball, Cricket, UFC, Motorsport, Tennis, etc.',
     tech: ['Python', 'Pyramid', 'GeoPandas', 'Docker', 'Kubernetes'],
-    github: 'https://github.com/GFDRR/thinkhazard',
-    live: 'https://thinkhazard.org',
+    github: 'https://github.com/fernnje/StreamTV',
+    live: 'https://fernntv.dpdns.org',
     image: 'thinkhazard.webp',
   },
   {
