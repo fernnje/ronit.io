@@ -153,7 +153,7 @@ export const projects: Project[] = [
     title: 'IPTV Stream Platform',
     description:
       'An open-source web for streaming or watch TV Channel with schedule live sports ex, Football, Basketball, Cricket, UFC, Motorsport, Tennis, etc.',
-    tech: ['Python', 'Pyramid', 'GeoPandas', 'Docker', 'Kubernetes'],
+    tech: ['React', 'Tailwind', 'Typescript', 'Vite'],
     github: 'https://github.com/fernnje/StreamTV',
     live: 'https://fernntv.dpdns.org',
     image: 'thinkhazard.webp',
