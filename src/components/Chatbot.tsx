@@ -155,7 +155,7 @@ export default function Chatbot({ isOpen, onClose }: ChatbotProps) {
       <div className="flex items-center justify-between p-3 sm:p-4 border-b-2 border-black dark:border-white bg-purple-300 rounded-t-base">
         <div className="flex items-center gap-2">
           <MessageCircle className="w-4 h-4 sm:w-5 sm:h-5 text-black" />
-          <h3 className="font-heading text-base sm:text-lg text-black font-bold">Ask Ronit AI</h3>
+          <h3 className="font-heading text-base sm:text-lg text-black font-bold">Ask Fernn AI</h3>
         </div>
         <Button variant="neutral" size="icon" onClick={onClose} className="w-8 h-8">
           <X className="w-4 h-4" />
