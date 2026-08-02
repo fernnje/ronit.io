@@ -353,7 +353,7 @@ export const seoConfig = {
   ],
 
   /** Open Graph image URL (absolute URL) */
-  ogImage: 'https://ronitjadhav.github.io/ronit.io/ronit.png',
+  ogImage: 'https://fernn.is-a.my.id/_next/static/media/ronit.439daa20.png',
 
   /** Site name for Open Graph */
   siteName: 'Fernn J Portfolio',
