@@ -42,7 +42,7 @@ export const siteConfig = {
 
 export const siteUrls = {
   /** Base URL of the deployed site (no trailing slash) */
-  baseUrl: 'https://portofolio-faviilo.vercel.app/',
+  baseUrl: 'https://fernn.is-a.my.id/',
 
   /** Your GitHub profile URL */
   github: 'https://github.com/fernnje/',
