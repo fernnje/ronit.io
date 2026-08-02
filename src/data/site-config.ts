@@ -138,7 +138,7 @@ export const projects: Project[] = [
     tech: ['CodeIgniter 4', 'Laravel', 'PHP', 'FastMCP', 'REST API'],
     github: 'https://fernnj.gumroad.com/l/kangtopup',
     live: 'https://kangtopup.id/',
-    image: 'gamescharge.webp',
+    image: 'geoservercloud-mcp.webp',
   },
   {
     title: 'Geonetwork-UI',
