@@ -135,7 +135,7 @@ export const projects: Project[] = [
     title: 'Topup Games & Voucher',
     description:
       'Want to own your own game top-up business? We offer affordable game top-up website creation services—pay just once and use it forever! No subscriptions or rental fees.',
-    tech: ['CodeIgniter 4', 'Laravel', 'PHP', 'FastMCP', 'REST API'],
+    tech: ['CodeIgniter 4', 'PHP', 'MySQL', 'REST API'],
     github: 'https://fernnj.gumroad.com/l/kangtopup',
     live: 'https://kangtopup.id/',
     image: 'geoservercloud-mcp.webp',
@@ -144,7 +144,7 @@ export const projects: Project[] = [
     title: 'Embedder Platform',
     description:
       'Get a link or embed code for videos from movies and TV series.',
-    tech: ['Angular', 'TypeScript', 'Tailwind CSS', 'Jest', 'Cypress'],
+    tech: ['CodeIgniter 4', 'PHP', 'MySQL', 'REST API'],
     github: 'https://github.com/geonetwork/geonetwork-ui',
     live: 'https://streamly.dpdns.org/',
     image: 'geonetwork-ui.webp',
